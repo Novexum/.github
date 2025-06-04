@@ -11,7 +11,7 @@ We believe in open-source innovation, transparency, and collaboration across har
 - 🧠 [GitHub Organization](https://github.com/Novexum)
 - 👔 [LinkedIn Page](https://www.linkedin.com/company/novexum)
 - 💬 [X (formerly Twitter)](https://x.com/tyutinkonstanti)
-- 👔 [LinkedIn Page](https://www.linkedin.com/company/novexum)
+- 👔 [My LinkedIn Page](https://www.linkedin.com/in/konstantin-tyutin/)
 - 💖 [Support via OpenCollective](https://opencollective.com/novexum)
 
 ---
